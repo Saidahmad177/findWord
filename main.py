@@ -1,7 +1,7 @@
 from words import words as w
 
 import random
-#
+
 x = random.choice(w)
 
 res = ''
